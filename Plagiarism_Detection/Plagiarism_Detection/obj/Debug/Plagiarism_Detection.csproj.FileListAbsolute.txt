@@ -1,9 +1,0 @@
-C:\Users\coope\source\repos\Plagiarism_Detection\Plagiarism_Detection\obj\Debug\Plagiarism_Detection.Properties.Resources.resources
-C:\Users\coope\source\repos\Plagiarism_Detection\Plagiarism_Detection\obj\Debug\Plagiarism_Detection.csproj.GenerateResource.cache
-C:\Users\coope\source\repos\Plagiarism_Detection\Plagiarism_Detection\obj\Debug\Plagiarism_Detection.csproj.CoreCompileInputs.cache
-C:\Users\coope\source\repos\Plagiarism_Detection\Plagiarism_Detection\bin\Debug\Plagiarism_Detection.exe.config
-C:\Users\coope\source\repos\Plagiarism_Detection\Plagiarism_Detection\bin\Debug\Plagiarism_Detection.exe
-C:\Users\coope\source\repos\Plagiarism_Detection\Plagiarism_Detection\bin\Debug\Plagiarism_Detection.pdb
-C:\Users\coope\source\repos\Plagiarism_Detection\Plagiarism_Detection\obj\Debug\Plagiarism_Detection.exe
-C:\Users\coope\source\repos\Plagiarism_Detection\Plagiarism_Detection\obj\Debug\Plagiarism_Detection.pdb
-C:\Users\coope\source\repos\Plagiarism_Detection\Plagiarism_Detection\obj\Debug\Plagiarism_Detection.csprojAssemblyReference.cache
